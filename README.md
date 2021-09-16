@@ -9,7 +9,7 @@ Paper, Poster and Presentation are in Korean.
 
 ## Our Team
 - Yoosun Kim (School of Mechanical Engineering, Chung-Ang Univ.)
-- Jimin Kim (School of Computer Science & Engineering, Chung-Ang Univ.)
+- 🙋‍♀️ **Jimin Kim (School of Computer Science & Engineering, Chung-Ang Univ.)**
 - Byunghyun Bae (School of Pharmaceutics, Chung-Ang Univ.)
 - Hayun Lee (School of Computer Science & Engineering, Chung-Ang Univ.)
 
